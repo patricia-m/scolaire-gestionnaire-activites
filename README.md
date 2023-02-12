@@ -58,7 +58,6 @@ L’utilisateur peut se connecter dans une page de connexion pour accéder à la
 <br>
 
 ### Exigences spécifiques et mentions
->- Le projet doit être remis dans une archive .zip nommée **pwa_NOM_prenom.zip**, contenant le code du projet et la script .sql de la BDD
 >- Les routes des pages d'administration (liste, ajout, suppression) doivent être protégées: on ne peut pas y accéder sans être connecté
 >- Les routes qui servent à traiter un formulaire doivent aussi être "protégées": on ne peut pas y accéder sans la soumission d'un formulaire
 >- Le mot de passe de l'utilisateur doit être encrypté
