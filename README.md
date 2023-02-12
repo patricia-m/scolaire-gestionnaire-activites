@@ -66,23 +66,3 @@ L’utilisateur peut se connecter dans une page de connexion pour accéder à la
 
 >- Vous n'avez **pas** à implémenter la *modification* d'une activité
 >- Vous n'avez **pas** à générer une documentation externe
-
-<br>
-
-## Critères d'évaluation
-
-<br>
-
- Critères | Pondération 
- :------ | :----------: 
-Base de données | 3 
-Modèle(s) approrié(s) | 2
-Liste des routes | 1
-Structure du controller et de ses méthodes | 2
-Accueil/connexion | 4
-Création d'un compte | 4
-Administration/liste des activités | 4
-Suppression d'une activité | 2
-Ajout d'une activité | 3
-Qualité du code (PHP, HTML, CSS) et documentation des méthodes | 5
-**Total** | **30**
