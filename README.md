@@ -1,7 +1,7 @@
 # scolaire-gestionnaire-activites
 
 ## Programmation web avancée
-# Épreuve-synthèse pratique (30 points)
+# Épreuve-synthèse pratique
 
 Le mandat de cet exercice est de créer un site web qui affiche une liste d’activités: un exemple d'activités serait d'aller se promener en nature.  
 - Une activité a un nom, une photo, une catégorie et une date de création.  
